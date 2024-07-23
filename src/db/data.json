@@ -1,0 +1,263 @@
+{
+  "tvList": [
+    {
+      "id": "1",
+      "name": "TV1",
+      "watchingChannel": "",
+      "watchingProgram": ""
+    },
+    {
+      "id": "2",
+      "name": "TV2",
+      "watchingChannel": "",
+      "watchingProgram": ""
+    },
+    {
+      "id": "3",
+      "name": "TV3",
+      "watchingChannel": "",
+      "watchingProgram": ""
+    }
+  ],
+  "channelsStatus": [
+    {
+      "tvId": "1",
+      "channelId": "1",
+      "programId": "1",
+      "status": "NEW"
+    },
+    {
+      "tvId": "1",
+      "channelId": "2",
+      "programId": "1",
+      "status": "NEW"
+    },
+    {
+      "tvId": "1",
+      "channelId": "3",
+      "programId": "1",
+      "status": "NEW"
+    },
+    {
+      "tvId": "1",
+      "channelId": "1",
+      "programId": "2",
+      "status": "NEW"
+    },
+    {
+      "tvId": "1",
+      "channelId": "2",
+      "programId": "2",
+      "status": "NEW"
+    },
+    {
+      "tvId": "1",
+      "channelId": "3",
+      "programId": "2",
+      "status": "NEW"
+    },
+    {
+      "tvId": "1",
+      "channelId": "1",
+      "programId": "3",
+      "status": "NEW"
+    },
+    {
+      "tvId": "1",
+      "channelId": "2",
+      "programId": "3",
+      "status": "NEW"
+    },
+    {
+      "tvId": "1",
+      "channelId": "3",
+      "programId": "3",
+      "status": "NEW"
+    },
+    {
+      "tvId": "2",
+      "channelId": "1",
+      "programId": "1",
+      "status": "NEW"
+    },
+    {
+      "tvId": "2",
+      "channelId": "2",
+      "programId": "1",
+      "status": "NEW"
+    },
+    {
+      "tvId": "2",
+      "channelId": "3",
+      "programId": "1",
+      "status": "NEW"
+    },
+    {
+      "tvId": "2",
+      "channelId": "1",
+      "programId": "2",
+      "status": "NEW"
+    },
+    {
+      "tvId": "2",
+      "channelId": "2",
+      "programId": "2",
+      "status": "NEW"
+    },
+    {
+      "tvId": "2",
+      "channelId": "3",
+      "programId": "2",
+      "status": "NEW"
+    },
+    {
+      "tvId": "2",
+      "channelId": "1",
+      "programId": "3",
+      "status": "NEW"
+    },
+    {
+      "tvId": "2",
+      "channelId": "2",
+      "programId": "3",
+      "status": "NEW"
+    },
+    {
+      "tvId": "2",
+      "channelId": "3",
+      "programId": "3",
+      "status": "NEW"
+    },
+    {
+      "tvId": "3",
+      "channelId": "1",
+      "programId": "1",
+      "status": "NEW"
+    },
+    {
+      "tvId": "3",
+      "channelId": "2",
+      "programId": "1",
+      "status": "NEW"
+    },
+    {
+      "tvId": "3",
+      "channelId": "3",
+      "programId": "1",
+      "status": "NEW"
+    },
+    {
+      "tvId": "3",
+      "channelId": "1",
+      "programId": "2",
+      "status": "NEW"
+    },
+    {
+      "tvId": "3",
+      "channelId": "2",
+      "programId": "2",
+      "status": "NEW"
+    },
+    {
+      "tvId": "3",
+      "channelId": "3",
+      "programId": "2",
+      "status": "NEW"
+    },
+    {
+      "tvId": "3",
+      "channelId": "1",
+      "programId": "3",
+      "status": "NEW"
+    },
+    {
+      "tvId": "3",
+      "channelId": "2",
+      "programId": "3",
+      "status": "NEW"
+    },
+    {
+      "tvId": "3",
+      "channelId": "3",
+      "programId": "3",
+      "status": "NEW"
+    }
+  ],
+  "channels": [
+    {
+      "id": "1",
+      "name": "Netflix",
+      "img": "netflix.jpg",
+      "programs": [
+        {
+          "id": "1",
+          "name": "Tower of god: season 2",
+          "img": "tower-of-god.webp",
+          "duration": "5"
+        },
+        {
+          "id": "2",
+          "name": "NOWHERE",
+          "img": "nowhere.jpg",
+          "duration": "3"
+        },
+        {
+          "id": "3",
+          "name": "Spider Man: Across the Spider Verse",
+          "img": "spider-man.webp",
+          "duration": "2000"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Youtube",
+      "img": "youtube.webp",
+      "programs": [
+        {
+          "id": "1",
+          "name": "Moon Knight",
+          "img": "moon-knight.jpg",
+          "duration": "1500"
+        },
+        {
+          "id": "2",
+          "name": "Kung Fu Panda 4",
+          "img": "kung-fu-panda-4.jpg",
+          "duration": "1100"
+        },
+        {
+          "id": "3",
+          "name": "The Interstellar",
+          "img": "interstellar.jpg",
+          "duration": "2100"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Disney Plus",
+      "img": "disney_plus.png",
+      "programs": [
+        {
+          "id": "1",
+          "name": "ONWARD",
+          "img": "onward.jpg",
+          "duration": "1300"
+        },
+        {
+          "id": "2",
+          "name": "Once Upon A Snowman",
+          "img": "once-upon-a-snow-man.jpg",
+          "duration": "2000"
+        },
+        {
+          "id": "3",
+          "name": "Lamp Life",
+          "img": "lamp-life.jpg",
+          "duration": "13000"
+        }
+      ]
+    }
+  ]
+}
